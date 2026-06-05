@@ -5,7 +5,7 @@
   <br/>
   
   <!-- Efek Mengetik Otomatis (Responsive Width) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=FTTH+Planning+%26+Network+Design;Python+Automation+Developer;GIS+%26+Spatial+Data+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=FTTH+Planning+%26+Network+Design;Python+Automation+Enthusiast;GIS+%26+Spatial+Data+Architect" alt="Typing SVG" />
 </div>
 
 ---
