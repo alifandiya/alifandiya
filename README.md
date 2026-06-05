@@ -49,11 +49,18 @@ Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastr
 **Project Management:**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+### 🐍 Snake Contribution Graphic (Visualisasi Ular Dinamis)
 <div align="center">
-  <h3>🔥 My Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifandiya&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/alifandiya/alifandiya/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🌌 Space Streak Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifandiya&theme=tokyonight&background=0a0f1d&fire=ff6c6b" />
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=alifandiya&color=blue&style=flat-square" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=alifandiya&color=007ACC&style=flat-square" alt="visitor counter" />
 </p>
