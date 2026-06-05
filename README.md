@@ -30,7 +30,7 @@ Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastr
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="100%" />
 
-    </td>
+  </td>
   </tr>
 </table>
 
