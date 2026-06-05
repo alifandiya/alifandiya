@@ -30,9 +30,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # Mengunggah hasil gambar ke branch khusus bernama 'output'
+      # PERBAIKAN DI SINI: Memperbarui versi ke v4.1.0 yang sudah mendukung Node.js 24
       - name: push github-contribution-grid-snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
           build_dir: dist
