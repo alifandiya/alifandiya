@@ -1,19 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Alif+Nasrullah;Designer+%26+Drafter+Telecom;Python+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002244&height=180&section=header&text=Alif%20Nasrullah%20Andiya&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Designer+%26+Drafter+Telecom;Python+Automation+Enthusiast;GIS+and+Spatial+Data+Architect" alt="Typing SVG" />
 </div>
 
 ---
-
-<table>
-  <tr>
-    <!-- Kolom Kiri: Tentang Saya -->
-    <td width="55%" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastruktur jaringan telekomunikasi (FTTH). Selain merancang jalur fisik, saya juga mengembangkan alat otomatisasi berbasis Python untuk mempercepat alur kerja <i>desktop engineering</i> dan pemrosesan data spasial.</p>
-      
-<table>
-  <tr>
-    <td width="55%" valign="top">
 
 ### ⚡ About Me
 Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastruktur jaringan telekomunikasi (FTTH). Selain merancang jalur fisik, saya juga mengembangkan alat otomatisasi berbasis Python untuk mempercepat alur kerja *desktop engineering* dan pemrosesan data spasial berbasis koordinat satelit.
@@ -22,18 +15,16 @@ Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastr
 * 🌱 Sedang mendalami: Optimasi algoritma spasial dan integrasi GIS dengan Python
 * 💬 Tanya saya tentang: AutoCAD, QGIS, KML/KMZ Parsing, dan Python GUI (CustomTkinter)
 
-    </td>
-    
-    <td width="45%" valign="top" align="center">
+---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alifandiya&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alifandiya&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="100%" />
-
-  </td>
-  </tr>
-</table>
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -47,8 +38,7 @@ Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Project Management:**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+---
 
 ### 🐍 Snake Contribution Graphic (Visualisasi Ular Dinamis)
 <div align="center">
