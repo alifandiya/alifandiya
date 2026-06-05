@@ -16,19 +16,20 @@
     <td width="55%" valign="top">
 
 ### ⚡ About Me
-Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastruktur jaringan telekomunikasi (FTTH). Selain merancang jalur fisik, saya juga mengembangkan alat otomatisasi berbasis Python untuk mempercepat alur kerja *desktop engineering* dan pemrosesan data spasial.
+Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastruktur jaringan telekomunikasi (FTTH). Selain merancang jalur fisik, saya juga mengembangkan alat otomatisasi berbasis Python untuk mempercepat alur kerja *desktop engineering* dan pemrosesan data spasial berbasis koordinat satelit.
 
 * 🔭 Sedang mengembangkan: **Automasi KMZ to HPDB Converter (As-Planned & As-Built Design)**
 * 🌱 Sedang mendalami: Optimasi algoritma spasial dan integrasi GIS dengan Python
 * 💬 Tanya saya tentang: AutoCAD, QGIS, KML/KMZ Parsing, dan Python GUI (CustomTkinter)
 
     </td>
+    
     <td width="45%" valign="top" align="center">
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=alifandiya&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alifandiya&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="100%" />
 
   </td>
   </tr>
