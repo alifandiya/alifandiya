@@ -11,19 +11,25 @@
       <h3>⚡ About Me</h3>
       <p>Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastruktur jaringan telekomunikasi (FTTH). Selain merancang jalur fisik, saya juga mengembangkan alat otomatisasi berbasis Python untuk mempercepat alur kerja <i>desktop engineering</i> dan pemrosesan data spasial.</p>
       
-      <ul>
-        <li>🔭 Sedang mengembangkan: <b>Automasi KMZ to HPDB Converter (As-Planned & As-Built Design)</b></li>
-        <li>🌱 Sedang mendalami: Optimasi algoritma spasial dan integrasi GIS dengan Python</li>
-        <li>💬 Tanya saya tentang: AutoCAD, QGIS, KML/KMZ Parsing, dan Python GUI (CustomTkinter)</li>
-      </ul>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+### ⚡ About Me
+Saya adalah seorang profesional di bidang desain dan perencanaan teknis infrastruktur jaringan telekomunikasi (FTTH). Selain merancang jalur fisik, saya juga mengembangkan alat otomatisasi berbasis Python untuk mempercepat alur kerja *desktop engineering* dan pemrosesan data spasial.
+
+* 🔭 Sedang mengembangkan: **Automasi KMZ to HPDB Converter (As-Planned & As-Built Design)**
+* 🌱 Sedang mendalami: Optimasi algoritma spasial dan integrasi GIS dengan Python
+* 💬 Tanya saya tentang: AutoCAD, QGIS, KML/KMZ Parsing, dan Python GUI (CustomTkinter)
+
     </td>
-    
-    <!-- Kolom Kanan: Status/Statistik Berjalan -->
     <td width="45%" valign="top" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=alifandiya&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="100%" />
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=alifandiya&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifandiya&layout=compact&theme=tokyonight" width="100%" />
+
     </td>
   </tr>
 </table>
@@ -45,9 +51,9 @@
 
 <div align="center">
   <h3>🔥 My Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifandiya&theme=tokyonight" />
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=blue&style=flat-square" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=alifandiya&color=blue&style=flat-square" alt="visitor counter" />
 </p>
