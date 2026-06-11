@@ -53,6 +53,8 @@ Saya adalah seorang profesional di bidang **Desain & Perencanaan Teknis Infrastr
     *Sistem inspeksi satu klik untuk validasi skema FDT dinamis, pencocokan warna spasial KML, serta sinkronisasi otomatis ke Bill of Quantity (BOQ) klien.*
 *   **Kalashnikova BOQ Splitter & Converter**
     *GUI Python cerdas untuk ekstraksi dan pemisahan otomatis material & service dari berkas Excel BOQ mentah untuk kebutuhan upload sistem ERP internal.*
+*   **FTTH Spatial Automation Tool (AK-47 Advanced Edition)**
+    *Mengembangkan aplikasi desktop zero-dependency berbasis Python yang mengotomatisasi pengelompokan ribuan data pelanggan (Homepassed) ke wilayah cakupan distribusi optik (Boundary FAT) menggunakan algoritma Ray             Casting dan filter Bounding Box, memangkas waktu pemrosesan data GIS secara signifikan.*
 
 ---
 
